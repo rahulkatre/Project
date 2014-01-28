@@ -59,15 +59,15 @@ class StockController extends CController
      * @soap
      */
      
-     
-    /* public function myfunction1() {
+    
+     public function myfunction1() {
      	$data=array(
      	'name'=>'rahul','lastname'=>'katre'
      	);
      return CJSON::encode($data)
      	
      
-     }*/
+     }
      
      
 } 
